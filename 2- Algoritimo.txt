@@ -1,0 +1,32 @@
+Algoritmo - Rotina
+
+Exemplo do cotidiano:
+	Atravessar a Rua
+		Olhar para a direita
+		Olhar para a esquerda
+		Se estiver vindo carro
+			Não atravesse
+		Senão
+			Atravesse
+	Fim-Algoritmo
+
+OU --------------------------------------
+
+	Atravessar a Rua
+		Olhar para a esquerda
+		Olhar para a direita
+		Se não estiver vindo carro
+			Atravesse
+		Senão
+			Não atravesse
+	Fim-Algoritmo
+
+Algoritimos Computacionais
+
+São passos a serem seguidos por um módulo processador e seus respectivos usuários que, quando executados na ordem correta, conseguem realizar determinada tarefa.
+
+Módulo processador: Tudo aquilo que pode efetuar processamento
+
+Usuário: Quem utiliza o algoritmo
+
+Realizar tarefa: Resolver o problema
