@@ -1,0 +1,12 @@
+Tipos - primitivos:
+
+	Inteiro: 1, 3, -5, 198, 0 - Números que não são fracionarios
+	Real: 0.5, 5.0, 9.8, -77.3 3.1415 - Números fracionarios
+	Caractere: "Gustavo", "Algoritmo", "123" - Precisa de ""
+	Lógico: Verdadeiro e Falso - apenas estes dois
+
+	ou, resumido
+
+	Númerico - numeros
+	Strings - sequência de caracteres
+	Booleans - verdadeiro ou falso
