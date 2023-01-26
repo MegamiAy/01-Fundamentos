@@ -1,0 +1,4 @@
+Listas - grupo de vários dados
+
+	Geralmente é usado [] para iniciar e fechar uma lista;
+	Dados separados por ,
