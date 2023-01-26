@@ -1,0 +1,57 @@
+Em ordem de importância
+
+Operadores Aritméticos
+
++ Adição		A + B
+- Subtração		A - B
+* Multiplicação		A * B
+/ Divisão		A / B
+\ Divisão Inteira	A \ B
+^ Exponenciação		A ^ B
+% Módulo		A % B
+
+Operadores Relacionais
+
+> Maior que
+< Menor que
+= Igual a
+<> Diferente de
+>= Maior ou igual
+<= Menor ou igual
+
+Operadores Lógicos:
+
+p q - p E q
+V V - V
+V F - F
+F V - F
+F F - F
+
+p q - p OU q
+V V - V
+V F - V
+F V - V
+F F - F
+
+p - NÃO p
+V - F
+F - V
+
+  \/
+
+  E
+  OU
+  NÃO
+
+----
+
+Funções Aritiméticas
+
+Abs	Valor Absoluto
+Exp	Exponenciação
+Int	Valor Inteiro
+RaizQ	Raiz Quadrada
+Pi	Retorna o valor de Pi
+Sen	Seno(rad)
+Cos	Cosseno(rad)
+Tan	Tangente(rad)
